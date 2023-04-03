@@ -116,8 +116,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Planned Features
 
-- [x] Add Changelog
-- [x] Add back to top links
+- [x] Get a basic DNS working
+- [ ] Create a lightweight HTML UI
 - [ ] Add Additional Templates w/ Examples
 - [ ] Add "components" document to easily copy & paste sections of the readme
 - [ ] Multi-language Support
