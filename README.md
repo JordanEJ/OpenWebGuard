@@ -8,10 +8,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">OpenWebGuard</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An awesome opensource ESP8266/ESP32 dns ad/tracker/website blocker!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
@@ -54,14 +54,8 @@
 
 OpenWebGuard is about safe internet usage and privacy. By default it blocks most ads and trackers.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
 As this project is only in the early stages there is plenty more to come. <a href="#contributing">Click here</a> to see all of the awsome planned features 😎
-
-Use the `BLANK_README.md` to get started.
+.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,11 +112,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 - [x] Get a basic DNS working
 - [ ] Create a lightweight HTML UI
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [ ] Web flasher
+- [ ] Automatic OTA updates
+- [ ] Custom block lists
+- [ ] Backup/restore presets
+- [ ] use blocklists from a URL
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
