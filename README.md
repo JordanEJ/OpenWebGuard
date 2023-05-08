@@ -111,12 +111,19 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ## Planned Features
 
 - [x] Get a basic DNS working
-- [ ] Create a lightweight HTML UI
+- [ ] Create a lightweight HTML Dashboard
+  - [ ] Online update
+  - [ ] Select timezone
+  - [ ] Import/backup host lists and times
+  - [ ] Gauges with stats
 - [ ] Web flasher
 - [ ] Automatic OTA updates
 - [ ] Custom block lists
 - [ ] Backup/restore presets
 - [ ] use blocklists from a URL
+- [ ] Static IP
+- [ ] Use a url instead of a IP for web interface (e.g esp8266.local)
+- [ ] Get current time from internet
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
