@@ -54,7 +54,7 @@
 
 OpenWebGuard is about safe internet usage and privacy. By default it blocks most ads and trackers.
 
-As this project is only in the early stages there is plenty more to come. <a href="#contributing">Click here</a> to see all of the awsome planned features 😎
+As this project is only in the early stages there is plenty more to come. <a href="#planned-features">Click here</a> to see all of the awsome planned features 😎
 .
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -63,34 +63,18 @@ As this project is only in the early stages there is plenty more to come. <a hre
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Instructions will come soon
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+To be added
 
 ### Installation
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+1. Add your WiFi Credentials to OpenWebGuard.ino where it says  ``` const char* ssid = "Your_SSID"; ``` and ``` const char* ssid = "Your_SSID"; ```
+2. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
